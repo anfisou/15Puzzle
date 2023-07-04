@@ -16,5 +16,7 @@ Agora apenas precisamos de executar o código recorrendo a uma das instruções:
 
 O ficheiro ```config.txt``` deve conter a configuração inicial na primeira linha e final na segunda linha, ou seja, a configuração em que o jogo começa e a configuração que pretendemos obter (no caso normal do jogo, esta é ```1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0```) em que o espaço vazio é representado pelo ```0``` e os valores são lidos horizontalmente da direira para a esquerda e de cima para baixo, como por exemplo:
 
-```1 2 3 4 5 6 7 8 9 10 11 12 0 13 14 15
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0```
+```
+1 2 3 4 5 6 7 8 9 10 11 12 0 13 14 15
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0
+```
