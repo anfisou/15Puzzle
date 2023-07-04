@@ -16,5 +16,7 @@ To run the code you only need to execute one of the following commands:
 
 The ```config.txt``` file should contain a inicial configuration on the first line and a final configuration on the second line, theese are the configurations in wich the game starts and the one we prentend to obtain at the end (in the default version of the game this is ```1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0```). The blank space is represented by a ```0``` and the values are read horizontally from left to rigth and top to bottom, for example:
 
-```1 2 3 4 5 6 7 8 9 10 11 12 0 13 14 15
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0```
+```
+1 2 3 4 5 6 7 8 9 10 11 12 0 13 14 15
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0
+```
