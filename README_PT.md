@@ -1,7 +1,6 @@
 Este projeto foi desevolvido no âmbito da unidade curricular 'Inteligência Artificial' e implementa o [Jogo dos 15](https://pt.wikipedia.org/wiki/O_jogo_do_15) utilizando diferentes algoritmos de pesquisa. Foram desenvolvidos os algoritmos BFS, DFS, Iterative DFS, Greedy e A*. Para os algoritmls Greedy e A* podem ser utilizadas duas heurísticas: o número de peças fora do lugar ('misplaced') ou a distância Manhattan de cada peça ao seu lugar ('Manhattan').
 
-Para executar os algoritmos de pesquisa, apenas precisa de garantir que tem alguma versão recente do Java instalada.
-Assim apenas precisamos de compilar todos os ficheiros executando a seguinte linha de instuções na shell:
+Para poder executar o código é necessário compilar todos os ficheiros .java usando o comando:
 
 ```javac *.java```
 
